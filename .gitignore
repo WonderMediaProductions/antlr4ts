@@ -41,7 +41,8 @@ jspm_packages/
 /src/tree/xpath/XPathLexer.tokens
 /src/tree/xpath/XPathLexer.ts
 gen/
-/target/
+target/*
+!target/package.json
 /tool/target/
 doc/
 

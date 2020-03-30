@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tunnelvisionlabs/antlr4ts.git"
+    "url": "git+https://github.com/wondermediaproductions/antlr4ts.git"
   },
   "keywords": [
     "ANTLR4",
@@ -15,9 +15,9 @@
   "author": "Terence Parr, Sam Harwell, and Burt Harris",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/tunnelvisionlabs/antlr4ts/issues"
+    "url": "https://github.com/wondermediaproductions/antlr4ts/issues"
   },
-  "homepage": "https://github.com/tunnelvisionlabs/antlr4ts#readme",
+  "homepage": "https://github.com/wondermediaproductions/antlr4ts#readme",
   "devDependencies": {},
   "dependencies": {}
 }
